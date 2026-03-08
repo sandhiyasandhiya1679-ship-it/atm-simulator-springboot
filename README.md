@@ -1,30 +1,28 @@
 # ATM Simulator - Spring Boot
 
-This project is an ATM Simulator built using Spring Boot and Java.  
-It simulates basic ATM operations such as checking balance, depositing money, and withdrawing cash.
+This project is an ATM Simulator built using Java and Spring Boot.  
+It simulates real ATM operations and allows users to manage their bank account.
 
 ## Features
 - Check account balance
 - Deposit money
 - Withdraw money
-- Simple ATM simulation logic
+- Transfer money between accounts
+- Change ATM PIN
+- View all customers
+- Secure login and logout
 
 ## Technologies Used
 - Java
 - Spring Boot
 - Maven
-- REST APIs
+- REST API
 
-## Project Structure
-src/main/java – Application source code  
-src/test/java – Test files  
-pom.xml – Maven dependencies
-
-## How to Run the Project
+## How to Run
 1. Clone the repository
 2. Open the project in Eclipse
 3. Run the Spring Boot application
-4. Access the APIs using Postman or browser
+4. Test APIs using Postman
 
 ## Author
 Sandhiya
